@@ -13,8 +13,8 @@ function App() {
         <Navbar />
 
             <Routes>
-              <Route path='/' element={<Body />} exact></Route>
-              <Route path='/dashboard' element={<Dashboard />} exact></Route>
+              <Route path='/' element={<Body />}></Route>
+              <Route path='/dashboard' element={<Dashboard />}></Route>
             </Routes>
           
         </div>
