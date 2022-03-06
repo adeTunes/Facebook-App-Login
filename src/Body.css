@@ -1,0 +1,11 @@
+img {
+    width: 100%;
+}
+.form-section {
+    padding: 50px 0 80px 0;
+    width: auto;
+}
+
+.form-control{
+    margin: 10px;
+}
