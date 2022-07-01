@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Facebook-App-Login/static/css/main.003be6e3.chunk.css",
+    "main.js": "/Facebook-App-Login/static/js/main.ea96ab59.chunk.js",
+    "main.js.map": "/Facebook-App-Login/static/js/main.ea96ab59.chunk.js.map",
+    "runtime-main.js": "/Facebook-App-Login/static/js/runtime-main.9950cb45.js",
+    "runtime-main.js.map": "/Facebook-App-Login/static/js/runtime-main.9950cb45.js.map",
+    "static/css/2.cbedb215.chunk.css": "/Facebook-App-Login/static/css/2.cbedb215.chunk.css",
+    "static/js/2.ea87222f.chunk.js": "/Facebook-App-Login/static/js/2.ea87222f.chunk.js",
+    "static/js/2.ea87222f.chunk.js.map": "/Facebook-App-Login/static/js/2.ea87222f.chunk.js.map",
+    "static/js/3.2a35266e.chunk.js": "/Facebook-App-Login/static/js/3.2a35266e.chunk.js",
+    "static/js/3.2a35266e.chunk.js.map": "/Facebook-App-Login/static/js/3.2a35266e.chunk.js.map",
+    "index.html": "/Facebook-App-Login/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "/Facebook-App-Login/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.003be6e3.chunk.css.map": "/Facebook-App-Login/static/css/main.003be6e3.chunk.css.map",
+    "static/js/2.ea87222f.chunk.js.LICENSE.txt": "/Facebook-App-Login/static/js/2.ea87222f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9950cb45.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.ea87222f.chunk.js",
+    "static/css/main.003be6e3.chunk.css",
+    "static/js/main.ea96ab59.chunk.js"
+  ]
+}
